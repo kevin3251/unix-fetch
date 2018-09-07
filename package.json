@@ -1,0 +1,12 @@
+{
+  "name": "unix-fetch",
+  "version": "0.0.1",
+  "description": "The fetch api for unix domain socket ",
+  "main": "index.js",
+  "author": "Kevin Chueh",
+  "license": "MIT",
+  "dependencies": {
+    "buffer-to-stream": "^1.0.0",
+    "form-data": "^2.3.2"
+  }
+}
